@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.title("Hitung Keliling dan Luas")
-st.write("deskripsi"
-)
+st.write("deskripsi")
+
 panjang = st.number_input("masukkan panjang persegi: ", value=0)
 st.write("The current number is ", panjang)
 
